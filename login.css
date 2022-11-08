@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+}
+.login
+{
+    text-align: center;
+    padding-top: 100;
+}
+input[type=text], input[type=password] {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  .buttons
+  {
+    margin-top: 50;
+    background-color: lightblue;
+    size: 20;
+    border-color: lightblue;
+}
+.heading
+{
+    text-align: center;
+    padding-top: 20;
+    color: white;
+}
